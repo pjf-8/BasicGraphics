@@ -2,7 +2,7 @@ BasicGraphics
 Programmed and Taught by Professor Reale at SUNY Polytechnic Institute
 
 Modifications and assignments done by Patrick Farrell
-This was the main project worked on during CS450 Graphic Design in Spring 2022
+This was the main project worked on during CS450 Computer Graphics in Spring 2022
 =============
 
 This is a very basic OpenGL sample for use in SUNY Polytechnic Institute's CS 450/548 Computer Graphics course.  
