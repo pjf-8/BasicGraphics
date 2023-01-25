@@ -90,12 +90,6 @@ In brief, the sample:
 
 
 
-While the program is running, you should see the following window:
-
-![Window displaying quad](Window.jpg)
-
-
-
 
 
 
